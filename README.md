@@ -6,3 +6,6 @@
 💼 Experience as a software engineer across backend, frontend, data engineering, and data science  
 🚀 Currently learning about Deep Learning and LLMs  
 🎥 Brazilian YouTube channel: [SimpleData](https://www.youtube.com/@Simpledata)  
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fenakamuta)](https://github.com/anuraghazra/github-readme-stats)
